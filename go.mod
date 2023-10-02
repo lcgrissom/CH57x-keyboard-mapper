@@ -1,4 +1,4 @@
-module github.com/achushu/ch57x
+module github.com/lcgrissom/ch57x-keyboard-mapper
 
 go 1.18
 
